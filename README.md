@@ -5,7 +5,7 @@ But first, tea!
 
 You can get in touch for a tea here: [LinkedIn](https://www.linkedin.com/in/ajaychandran11/)
 
-A handful work experience in `Android` and `Kotlin`.
+A handful work experience in `Android`, `Java` and `Kotlin`.
 
 My experience in latest technologies:    
   - `Jetpack Compose`     
