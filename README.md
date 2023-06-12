@@ -1,4 +1,20 @@
-### Hi there 👋
+Hey there 👋🏻
+
+Currently, a curious Android Developer.
+But first, tea!
+
+You can get in touch for a tea here: [LinkedIn](https://www.linkedin.com/in/ajaychandran11/)
+
+A handful work experience in `Android` and `Kotlin`.
+
+My experience in latest technologies:    
+  - `Jetpack Compose`     
+  - `Kotlin Multiplatform Mobile`
+
+Also, have a basic knowledge in
+  - `Swift`
+  - Frontend development with `node.js`  
+
 
 <!--
 **AjayChandran11/AjayChandran11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
