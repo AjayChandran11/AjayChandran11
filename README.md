@@ -10,9 +10,10 @@ A handful work experience in `Android`, `Java` and `Kotlin`.
 My experience in latest technologies:    
   - `Jetpack Compose`     
   - `Kotlin Multiplatform Mobile`
+  - `Claude Code` (Am i allowed to put this? Idk.)
 
 Also, have a basic knowledge in
-  - `Swift`
+  - `Swift` and `SwiftUI`
   - Frontend development with `node.js`  
 
 
